@@ -1,0 +1,6 @@
+C:\Users\Diesel\Documents\c_sharp_test\snake\bin\Debug\snake.exe.config
+C:\Users\Diesel\Documents\c_sharp_test\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\Diesel\Documents\c_sharp_test\snake\bin\Debug\snake.exe
+C:\Users\Diesel\Documents\c_sharp_test\snake\bin\Debug\snake.pdb
+C:\Users\Diesel\Documents\c_sharp_test\snake\obj\Debug\snake.exe
+C:\Users\Diesel\Documents\c_sharp_test\snake\obj\Debug\snake.pdb
